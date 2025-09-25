@@ -1,0 +1,6 @@
+(defproject com.badlogic.gdx.graphics.g2d.freetype "1.13.5"
+  :dependencies [[org.clojure/clojure "1.12.0"]
+                 [com.badlogic.gdx                   "1.13.5"]
+                 [com.badlogicgames.gdx/gdx-freetype "1.13.5"]]
+  :codox {:source-uri "https://github.com/damn/com.badlogic.gdx.graphics.g2d.freetype/blob/main/{filepath}#L{line}"
+          :metadata {:doc/format :markdown}})
