@@ -1,4 +1,4 @@
-(ns com.badlogic.gdx.graphics.g2d.freetype
+(ns gdl.graphics.freetype
   (:require [com.badlogic.gdx.graphics.texture.filter :as texture-filter])
   (:import (com.badlogic.gdx.graphics.g2d BitmapFont)
            (com.badlogic.gdx.graphics.g2d.freetype FreeTypeFontGenerator
