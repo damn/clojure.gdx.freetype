@@ -1,4 +1,4 @@
-(ns com.badlogic.gdx.graphics.g2d.freetype.generator
+(ns clojure.gdx.freetype.generator
   (:import (com.badlogic.gdx.graphics.g2d.freetype FreeTypeFontGenerator)))
 
 (defn create [file-handle]
